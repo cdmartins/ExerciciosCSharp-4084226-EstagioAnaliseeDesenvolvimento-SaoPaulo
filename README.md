@@ -1,4 +1,4 @@
-#Exercícios C# - Processo Seletivo
+# Exercícios C# - Processo Seletivo
 Este repositório contém uma coleção de exercícios desenvolvidos em C# como parte do processo seletivo para a vaga de Estágio em Análise e Desenvolvimento (vaga 4084226) em São Paulo.
 
 Cada exercício é projetado para demonstrar habilidades práticas e conhecimentos essenciais em programação C#, abordando uma variedade de conceitos e desafios técnicos. Os exercícios incluem, mas não se limitam a:

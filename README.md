@@ -7,5 +7,5 @@ Cada exercício é projetado para demonstrar habilidades práticas e conheciment
 - Estruturas de dados e algoritmos
 - Interação com arquivos e XML/JSON
 - Cálculo e análise de informações
-- 
+
 Os códigos estão organizados em pastas numeradas para facilitar a navegação e a revisão. Sinta-se à vontade para explorar, testar e contribuir!
